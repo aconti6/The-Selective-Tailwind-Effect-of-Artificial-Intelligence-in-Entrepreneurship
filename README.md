@@ -8,13 +8,13 @@ b.	A video tutorial on data anomalies as hidden patterns that can reveal novel b
 
 c.	A video for the control group, which is a basic introduction to the importance of data, without any nudging toward anomalies or causal logic.
 
-d. Copy of the survey administered to founders
+d. A copy of the survey administered to participants before they started the lab experiment task
 
-e. A copy of the survey administered to participants before they started the lab experiment task
+e. A copy of the task assigned to lab experiment participants
 
-f. A copy of the task assigned to lab experiment participants
+f. A copy of the survey administered to participants after they finished the lab experiment task
 
-g. A copy of the survey administered to participants after they finished the lab experiment task
+g. Copy of the survey administered to founders
 
 h. The latest version of the working paper (including the Appendix to the paper)
 
